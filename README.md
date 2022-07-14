@@ -11,10 +11,10 @@ In this project, we'll use SQL in Jupyter Notebook to explore and analyze data f
 
 The dataset is composed of 5 colums and 29550 row. It includes the following variables:
 
-Datesold: The date when an owner sold the house to a buyer.
-Postcode: 4 digit postcode of the suburb where the owner sold the property
-Price: Price for which the owner sold the property.
-Bedrooms: Number of bedrooms.
+-Datesold: The date when an owner sold the house to a buyer.
+-Postcode: 4 digit postcode of the suburb where the owner sold the property
+-Price: Price for which the owner sold the property.
+-Bedrooms: Number of bedrooms.
 
 We are going to find the answers to questions like:
 
