@@ -25,4 +25,4 @@ Use the window function to deduce the top six postcodes by year's price.
 
 ## Notes: 
 
-The database being very simple, we could answer complicated questions. This project was intented to practise my SQL skills and show knowledge of simple and more complicated queries using window functions and common table expression(CTE). 
+The database being very simple, we could answer complicated questions. This project was intented to practise my SQL skills and show knowledge of simple and more complicated queries using basic SQL queries, aggregate functions, window functions and common table expression(CTE). 
